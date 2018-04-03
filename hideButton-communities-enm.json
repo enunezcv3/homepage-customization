@@ -6,7 +6,7 @@
 	  "match": {
             "user-email": ["elisa.nunez@cv3.biz"]
       },
-      "include-files": ["hideButton/hideButton-communities-enm.js"],
+      "include-files": ["hideButton-communities-enm.js"],
       "include-repo": {"name": "homepage-customization"}
       },
       "name": "Communities Hide Buttons EXTENSION-ENM",
